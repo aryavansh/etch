@@ -1,0 +1,13 @@
+#container {
+    background-color: white;
+    height: 624px;
+    width: 624px;
+    margin: 0 300px 0 300px;
+}
+.unit {
+    background-color: lightgrey;
+    height: 35px;
+    width: 35px;
+    margin: 2px;
+    float: left;
+}
